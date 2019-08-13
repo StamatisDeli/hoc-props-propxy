@@ -9,6 +9,7 @@ import HoverCounter from "./components/HoverCounter";
 function App() {
   return (
     <div className="App">
+      <h2>HOC Props Proxy</h2>
       <ClickCounter />
       <HoverCounter />
     </div>
